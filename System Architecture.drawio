@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="8BIiPkTfaHQSx5XVqpeh">
-    <mxGraphModel dx="969" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="616" dy="365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,14 +29,17 @@
         <mxCell id="BAWRoFNMCloAHGlpAhLR-3" value="User Interface" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="70" width="190" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="BAWRoFNMCloAHGlpAhLR-6" value="&lt;h3 style=&quot;text-wrap-mode: nowrap;&quot;&gt;Login/SignUp&lt;/h3&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="BAWRoFNMCloAHGlpAhLR-3">
-          <mxGeometry x="40" y="30" width="120" height="20" as="geometry" />
+        <mxCell id="BAWRoFNMCloAHGlpAhLR-6" value="&lt;h5 style=&quot;text-wrap-mode: nowrap;&quot;&gt;Login/SignUp&lt;/h5&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="BAWRoFNMCloAHGlpAhLR-3">
+          <mxGeometry x="40" y="40" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BAWRoFNMCloAHGlpAhLR-7" value="&lt;h3 style=&quot;text-wrap-mode: nowrap;&quot;&gt;Dashboard&lt;/h3&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="BAWRoFNMCloAHGlpAhLR-3">
+        <mxCell id="BAWRoFNMCloAHGlpAhLR-7" value="&lt;h5 style=&quot;text-wrap-mode: nowrap;&quot;&gt;Dashboard&lt;/h5&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="BAWRoFNMCloAHGlpAhLR-3">
           <mxGeometry x="40" y="60" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BAWRoFNMCloAHGlpAhLR-9" value="&lt;h3 style=&quot;text-wrap-mode: nowrap;&quot;&gt;Prescription&amp;nbsp;&lt;/h3&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="BAWRoFNMCloAHGlpAhLR-3">
-          <mxGeometry x="40" y="90" width="120" height="20" as="geometry" />
+        <mxCell id="BAWRoFNMCloAHGlpAhLR-9" value="&lt;h5 style=&quot;text-wrap-mode: nowrap;&quot;&gt;Prescription&amp;nbsp;&lt;/h5&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="BAWRoFNMCloAHGlpAhLR-3">
+          <mxGeometry x="40" y="100" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BAWRoFNMCloAHGlpAhLR-55" value="&lt;h5 style=&quot;text-wrap-mode: nowrap;&quot;&gt;Voice/Text Transaltion&lt;/h5&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="BAWRoFNMCloAHGlpAhLR-3">
+          <mxGeometry x="40" y="80" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BAWRoFNMCloAHGlpAhLR-13" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" vertex="1" parent="1">
           <mxGeometry x="294.16" y="220" width="41.67" height="40" as="geometry" />
@@ -74,7 +77,7 @@
           <mxGeometry x="475" y="400" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BAWRoFNMCloAHGlpAhLR-37" value="&lt;b&gt;API&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;Request&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="360" y="220" width="70" height="40" as="geometry" />
+          <mxGeometry x="335.83" y="220" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BAWRoFNMCloAHGlpAhLR-38" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;startArrow=classic;endSize=4;startSize=4;rounded=0;jumpSize=3;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
@@ -102,6 +105,19 @@
             <mxPoint x="503" y="300" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BAWRoFNMCloAHGlpAhLR-48" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;startArrow=classic;endSize=4;startSize=4;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BAWRoFNMCloAHGlpAhLR-14" target="BAWRoFNMCloAHGlpAhLR-49">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="460" y="391" as="sourcePoint" />
+            <mxPoint x="190" y="380" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BAWRoFNMCloAHGlpAhLR-49" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#C925D1;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cloud_control_api;" vertex="1" parent="1">
+          <mxGeometry x="110" y="355" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="BAWRoFNMCloAHGlpAhLR-50" value="&lt;h6&gt;&lt;b&gt;OpenAI Wishper + gTTS&lt;/b&gt;&lt;/h6&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="71" y="384" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
