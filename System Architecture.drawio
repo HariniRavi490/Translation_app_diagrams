@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
   <diagram name="Page-1" id="8BIiPkTfaHQSx5XVqpeh">
-    <mxGraphModel dx="609" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="838" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,7 @@
         <mxCell id="BAWRoFNMCloAHGlpAhLR-25" value="&lt;p style=&quot;font-size: 6px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="line;strokeWidth=1;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="332.5" width="60" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="BAWRoFNMCloAHGlpAhLR-28" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;startArrow=classic;endSize=4;startSize=4;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.01;entryY=0.488;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="BAWRoFNMCloAHGlpAhLR-18" source="BAWRoFNMCloAHGlpAhLR-22">
+        <mxCell id="BAWRoFNMCloAHGlpAhLR-28" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;startArrow=classic;endSize=4;startSize=4;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.01;entryY=0.488;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="BAWRoFNMCloAHGlpAhLR-22" target="BAWRoFNMCloAHGlpAhLR-18" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="450" y="381" as="sourcePoint" />
             <mxPoint x="490" y="380.96" as="targetPoint" />
@@ -119,8 +119,8 @@
         <mxCell id="BAWRoFNMCloAHGlpAhLR-50" value="&lt;p&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;OpenAI Whisper + gTTS&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="66" y="388" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BAWRoFNMCloAHGlpAhLR-57" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Hybrid&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;Translation&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="400.83" y="315" width="60" height="40" as="geometry" />
+        <mxCell id="4u0TI1YYXQAsDy91ZDyX-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Hybrid&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Translation&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="445" y="312.82" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
